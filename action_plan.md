@@ -22,3 +22,7 @@ ongoing
 4. aim for 1 meetup per week while looking for a job, as many coffee meetings as possible.
 7. listen to one episode of bike shed podcast each day
 15. organize systems and tools in my brain and learn about what they do, how they interact, how they work. e.g. aws, apis, servers, cookies, etc.
+
+
+Summary:
+my immediate priority beginning 5/18 is to recover and recharge. The burn out is real and i don't want to lack the ability to be motivated and productive when it matters most. Then it's back to work, filling in some of those skillset insecurities i have in anticipating trying to get a job. i want to be as prepared and as aware as possible. the ongoing projects and goals are my meat an potatoes, making sure i'm always learning, always coding, and being more engaged and active in the programming community. 
